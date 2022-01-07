@@ -1,4 +1,7 @@
+
+---------------
 Projetinho de Token
+---------------
 
 Liguagens/Frameworks/Bibliotecas:
 
@@ -11,5 +14,7 @@ Ambientes/redes:
 -Ganache
 
 -MyEtherWallet
+
+----------------------
 
 o nome é em homenagem ao meu brother Anderson s2
